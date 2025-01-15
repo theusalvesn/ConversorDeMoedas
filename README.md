@@ -14,8 +14,8 @@ Este projeto é um **Conversor de Moedas** desenvolvido em Java, que permite rea
 - **Linguagem**: Java 8+
 - **API de Taxas de Câmbio**: Exchangerate API (ou similar)
 - **Bibliotecas**:
-  - `HttpClient` (ou `OkHttp`) para requisições HTTP
-  - `Gson` ou `Jackson` para manipulação de JSON
+  - `HttpClient` para requisições HTTP
+  - `Gson` para manipulação de JSON
 - **Gerenciador de Dependências**: Maven ou Gradle
 
 ## Configuração e Execução
